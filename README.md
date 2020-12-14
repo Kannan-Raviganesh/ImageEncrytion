@@ -1,2 +1,4 @@
-# ImageEncrytion
-AES-256
+# Image Encrytion and Decryption
+
+
+Advanced Encryption Standard-256
